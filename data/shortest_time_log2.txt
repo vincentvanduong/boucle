@@ -1,0 +1,221 @@
+Initial ground states using DMRG
+After sweep 1 energy=-7.174305188161573  maxlinkdim=7 maxerr=2.11E-16 time=15.586
+After sweep 2 energy=-7.174305830640102  maxlinkdim=7 maxerr=2.78E-13 time=0.005
+After sweep 3 energy=-7.174305830640112  maxlinkdim=7 maxerr=2.43E-13 time=0.027
+After sweep 4 energy=-7.17430583064011  maxlinkdim=7 maxerr=2.43E-13 time=0.007
+After sweep 5 energy=-7.1743058306401  maxlinkdim=7 maxerr=2.43E-13 time=0.004
+After sweep 6 energy=-7.174305830640115  maxlinkdim=7 maxerr=2.43E-13 time=0.005
+After sweep 7 energy=-7.174305830640112  maxlinkdim=7 maxerr=2.43E-13 time=0.004
+After sweep 8 energy=-7.174305830640111  maxlinkdim=7 maxerr=2.43E-13 time=0.005
+Target ground states using DMRG
+After sweep 1 energy=-7.173814159854034  maxlinkdim=8 maxerr=1.50E-16 time=0.004
+After sweep 2 energy=-7.1743058306298835  maxlinkdim=7 maxerr=1.03E-13 time=0.004
+After sweep 3 energy=-7.174305830640108  maxlinkdim=7 maxerr=2.43E-13 time=0.005
+After sweep 4 energy=-7.174305830640113  maxlinkdim=7 maxerr=2.43E-13 time=0.026
+After sweep 5 energy=-7.174305830640111  maxlinkdim=7 maxerr=2.43E-13 time=0.005
+After sweep 6 energy=-7.174305830640109  maxlinkdim=7 maxerr=2.43E-13 time=0.005
+After sweep 7 energy=-7.174305830640106  maxlinkdim=7 maxerr=2.43E-13 time=0.004
+After sweep 8 energy=-7.1743058306401135  maxlinkdim=7 maxerr=2.43E-13 time=0.004
+Duration = 0.2
+[2.0, 2.0, 0.1, 1.0, 2.0]
+After sweep 1, max error = 1.96018782898509
+After sweep 2, max error = 4.440892098500626e-16
+χ = [2]
+entropy = -2.2204460492503136e-16
+Cost = 1.4606465247721216
+Duration = 0.3
+[3.0, 3.0, 0.1, 1.0, 3.0]
+After sweep 1, max error = 1.726649941023323
+After sweep 2, max error = 4.440892098500626e-16
+χ = [2, 2]
+entropy = 0.07163170433779457
+Cost = 1.022590874561581
+Duration = 0.4
+[4.0, 4.0, 0.1, 1.0, 4.0]
+After sweep 1, max error = 2.9439315035683498
+After sweep 2, max error = 4.440892098500626e-16
+χ = [2, 4, 2]
+entropy = 0.06422419379903882
+Cost = -0.2829465785820154
+Duration = 0.5
+[5.0, 5.0, 0.1, 1.0, 5.0]
+After sweep 1, max error = 3.2780525335590864
+After sweep 2, max error = 6.661338147750939e-16
+χ = [2, 4, 4, 2]
+entropy = 0.095366479985971
+Cost = -0.9720024794360335
+Duration = 0.6
+[6.0, 6.0, 0.1, 1.0, 6.0]
+After sweep 1, max error = 2.736387233601058
+After sweep 2, max error = 0.43438468358918136
+χ = [2, 4, 7, 4, 2]
+entropy = 0.0942486984735066
+Cost = -2.0281518367625675
+Duration = 0.7
+[7.0, 7.0, 0.1, 1.0, 7.0]
+After sweep 1, max error = 4.6669225648377495
+After sweep 2, max error = 0.5453690909774123
+χ = [2, 4, 8, 8, 4, 2]
+entropy = 0.10958395202033232
+Cost = -2.785029667557118
+Duration = 0.8
+[8.0, 8.0, 0.1, 1.0, 8.0]
+After sweep 1, max error = 4.556778116930995
+After sweep 2, max error = 0.7106565042853903
+χ = [2, 4, 8, 11, 8, 4, 2]
+entropy = 0.10357671553669123
+Cost = -3.506704424306528
+Duration = 0.9
+[9.0, 9.0, 0.1, 1.0, 9.0]
+After sweep 1, max error = 5.280213625415394
+After sweep 2, max error = 1.0197476094847444
+χ = [2, 4, 8, 12, 12, 8, 4, 2]
+entropy = 0.10667499263105008
+Cost = -4.162952448790531
+Duration = 1.0
+[10.0, 10.0, 0.1, 1.0, 10.0]
+After sweep 1, max error = 5.4918471249272205
+After sweep 2, max error = 1.2985863450470614
+χ = [2, 4, 8, 13, 14, 14, 8, 4, 2]
+entropy = 0.09553010923278771
+Cost = -4.559730341152358
+Duration = 1.1
+[11.0, 11.0, 0.1, 1.0, 11.0]
+After sweep 1, max error = 5.146824091939186
+After sweep 2, max error = 1.5532908050866552
+χ = [2, 4, 8, 13, 14, 15, 14, 8, 4, 2]
+entropy = 0.09249712935158896
+Cost = -4.940243298504145
+Duration = 1.2
+[12.0, 12.0, 0.1, 1.0, 12.0]
+After sweep 1, max error = 5.1154805267605
+After sweep 2, max error = 2.2460804625396285
+χ = [2, 4, 8, 15, 16, 16, 15, 13, 8, 4, 2]
+entropy = 0.08127338161217702
+Cost = -5.087908087616846
+Duration = 1.3
+[13.0, 13.0, 0.1, 1.0, 13.0]
+After sweep 1, max error = 4.703186673892137
+After sweep 2, max error = 2.5415044554774897
+χ = [2, 4, 8, 15, 16, 16, 16, 16, 14, 8, 4, 2]
+entropy = 0.07732670299097445
+Cost = -5.349504182429866
+Duration = 1.4
+[14.0, 14.0, 0.1, 1.0, 14.0]
+After sweep 1, max error = 4.657977824155491
+After sweep 2, max error = 2.5839775645234253
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 13, 8, 4, 2]
+entropy = 0.0685113824444528
+Cost = -5.394696829661306
+Duration = 1.5
+[15.0, 15.0, 0.1, 1.0, 15.0]
+After sweep 1, max error = 4.574303661790293
+After sweep 2, max error = 3.293121549226263
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 15, 8, 4, 2]
+entropy = 0.06542540093931744
+Cost = -5.578885338625955
+Duration = 1.6
+[16.0, 16.0, 0.1, 1.0, 16.0]
+After sweep 1, max error = 7.056292911254971
+After sweep 2, max error = 3.451763965118891
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 16, 13, 8, 4, 2]
+entropy = 0.0590704974055153
+Cost = -5.639362186730026
+Duration = 1.7
+[17.0, 17.0, 0.1, 1.0, 17.0]
+After sweep 1, max error = 8.579397331278724
+After sweep 2, max error = 4.486807309588158
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 16, 16, 14, 8, 4, 2]
+entropy = 0.05700956940846186
+Cost = -5.923184967666215
+Duration = 1.8
+[18.0, 18.0, 0.1, 1.0, 18.0]
+After sweep 1, max error = 4.901750645541613
+After sweep 2, max error = 4.53438808918623
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 16, 16, 15, 15, 8, 4, 2]
+entropy = 0.05272734463804961
+Cost = -6.026461017828594
+Duration = 1.9
+[19.0, 19.0, 0.1, 1.0, 19.0]
+After sweep 1, max error = 8.87174059805723
+After sweep 2, max error = 5.339441360997979
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 15, 8, 4, 2]
+entropy = 0.0512721663114349
+Cost = -6.175861591795538
+Duration = 2.0
+[20.0, 20.0, 0.1, 1.0, 20.0]
+After sweep 1, max error = 6.716787993734622
+After sweep 2, max error = 3.332227716480167
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 13, 8, 4, 2]
+entropy = 0.04794023175405966
+Cost = -6.471994975106789
+Duration = 2.1
+[21.0, 21.0, 0.1, 1.0, 21.0]
+After sweep 1, max error = 4.985721670068536
+After sweep 2, max error = 9.431519668313005
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 14, 8, 4, 2]
+entropy = 0.04718239951036537
+Cost = -6.452858689405489
+Duration = 2.2
+[22.0, 22.0, 0.1, 1.0, 22.0]
+After sweep 1, max error = 7.770963774395677
+After sweep 2, max error = 5.1631678848680895
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 14, 8, 4, 2]
+entropy = 0.04524564646992711
+Cost = -6.643902472558633
+Duration = 2.3
+[23.0, 23.0, 0.1, 1.0, 23.0]
+After sweep 1, max error = 6.4864504987271125
+After sweep 2, max error = 6.208352072124057
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 14, 8, 4, 2]
+entropy = 0.044124568361639686
+Cost = -6.562088499051739
+Duration = 2.4
+[24.0, 24.0, 0.1, 1.0, 24.0]
+After sweep 1, max error = 7.398245253377768
+After sweep 2, max error = 6.029309174226146
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 14, 8, 4, 2]
+entropy = 0.04292977399337513
+Cost = -6.35792012646087
+Duration = 2.5
+[25.0, 25.0, 0.1, 1.0, 25.0]
+After sweep 1, max error = 5.018789823147633
+After sweep 2, max error = 7.516602659220094
+χ = [2, 4, 8, 14, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 14, 8, 4, 2]
+entropy = 0.042313836674614774
+Cost = -6.763904018256558
+Duration = 2.6
+[26.0, 26.0, 0.1, 1.0, 26.0]
+After sweep 1, max error = 5.6626177404432365
+After sweep 2, max error = 7.181876544571137
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 15, 14, 8, 4, 2]
+entropy = 0.043114707730978793
+Cost = -6.760127360830167
+Duration = 2.7
+[27.0, 27.0, 0.1, 1.0, 27.0]
+After sweep 1, max error = 4.359394025750982
+After sweep 2, max error = 7.298222373997812
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 15, 16, 14, 8, 4, 2]
+entropy = 0.041796583425080844
+Cost = -6.803782749784377
+Duration = 2.8
+[28.0, 28.0, 0.1, 1.0, 28.0]
+After sweep 1, max error = 4.113403208840121
+After sweep 2, max error = 8.544154888561918
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 15, 14, 8, 4, 2]
+entropy = 0.041271964842812106
+Cost = -5.749399971665739
+Duration = 2.9
+[29.0, 29.0, 0.1, 1.0, 29.0]
+After sweep 1, max error = 4.862763369901944
+After sweep 2, max error = 9.411515806283713
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 15, 8, 4, 2]
+entropy = 0.03943425375282757
+Cost = -6.2192683641220965
+Duration = 3.0
+[30.0, 30.0, 0.1, 1.0, 30.0]
+After sweep 1, max error = 3.6193145916371314
+After sweep 2, max error = 6.3781637426720525
+χ = [2, 4, 8, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 14, 8, 4, 2]
+entropy = 0.039176969851080504
+Cost = -5.1219855215841745
